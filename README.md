@@ -45,9 +45,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   </a>
 </div>
 
-<a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
-</a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeidnikseresht&show_icons=true&theme=synthwave) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeidnikseresht&show_icons=true&theme=highcontrast) 
