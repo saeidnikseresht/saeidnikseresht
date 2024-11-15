@@ -43,20 +43,12 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   </a>
 </div>
 
-### ⚡ Fun fact
-
-I'm definitely not a cat person.
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeidnikseresht&show_icons=true&theme=synthwave) 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeidnikseresht&show_icons=true&theme=highcontrast) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeidnikseresht&show_icons=true&theme=tokyonight) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeidnikseresht&show_icons=true&theme=merko) 
+
 
 <!---
 saeidnikseresht/saeidnikseresht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
