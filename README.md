@@ -35,10 +35,10 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <a href="https://www.linkedin.com/in/saeidnikseresht">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/CodeWithBernard">
+  <a href="https://www.instagram.com/saeid_good_nature">
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
+  <a href="https://www.instagram.com/saeidnikseresht_developerr">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
